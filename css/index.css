@@ -68,6 +68,7 @@ img {
     border: 2px solid darkgray;
     padding: 15px;
     border-radius: 8px;
+    font-size: 300%;
 }
 h1{
     color: firebrick;
