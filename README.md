@@ -1,3 +1,3 @@
 # ProjectVizytka
 
-[Наша команда](http://webui-teamx.github.io/ProjectVizytka/ "Наша команда")
+[РќР°С€Р° РєРѕРјР°РЅРґР°](http://webui-teamx.github.io/ProjectVizytka/ "РќР°С€Р° РєРѕРјР°РЅРґР°")
